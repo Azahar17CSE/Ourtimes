@@ -10,7 +10,7 @@
 	<div class="title">
 		<center>
 			<h1>We are Underconstructions!</h1>
-			<p>Something is better!We are ourtimes</p>
+			<p>Something is better! We are ourtimes....</p>
 		</center>
 	</div>
 </body>
